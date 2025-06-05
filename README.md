@@ -5,7 +5,7 @@
 تم تحميل البيانات من مصدر خارجي، وتنظيفها، ثم بناء نموذج للتنبؤ بمعدل البطالة بناءً على سنوات التعليم.
 
 ## الأدوات المستخدمة
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Matplotlib
@@ -33,6 +33,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - نموذج انحدار خطي تم تدريبه وتقييمه بدقة مناسبة.
 
 ---
+
 
 ## المؤلف
 - Amr AL-Mughira 
