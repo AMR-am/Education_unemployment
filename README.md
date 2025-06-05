@@ -20,13 +20,12 @@
 5. عرض النتائج بصريًا مع خط الانحدار.
 
 ## كيفية الاستخدام
-- تأكد من وجود ملف البيانات (مثلاً `education_unemployment.csv` أو اسم الملف الذي تستخدمه).
+- تأكد من وجود ملف البيانات (`education_unemployment.csv` ).
 - ثبت المكتبات اللازمة:
 pip install pandas numpy matplotlib seaborn scikit-learn
-- شغّل سكريبت التحليل.
 
 ## الملفات
-- `linear_regression_analysis.ipynb` : ملف جوبتر نوتبوك للكود كامل.
+- `education_unemployment.ipynb` : ملف جوبتر نوتبوك للكود كامل.
 - ملف البيانات (CSV) المستخدم.
 
 ## نتائج المشروع
