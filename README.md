@@ -32,11 +32,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - رسم بياني يوضح العلاقة بين سنوات التعليم ومعدل البطالة.
 - نموذج انحدار خطي تم تدريبه وتقييمه بدقة مناسبة.
 
-
-
-## المؤلف
-- Amr AL-Mughira 
-
 ---
 ### تحميل المشروع
 
