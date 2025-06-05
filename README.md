@@ -33,6 +33,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - نموذج انحدار خطي تم تدريبه وتقييمه بدقة مناسبة.
 
 ---
+### تحميل المشروع
+
+```bash
+git clone https://github.com/AMR-am/Education_unemployment.git
+cd Education_unemployment
 
 
 ## المؤلف
